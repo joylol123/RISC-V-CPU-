@@ -1,0 +1,1 @@
+EXE_stage的浮點還沒寫，有些接線直接越過EXE STAGE 還不知道理由，像是 function3
